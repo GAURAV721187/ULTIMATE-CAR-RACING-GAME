@@ -23,7 +23,11 @@ Dodge traffic, survive longer, and test your reflexes in this endless racing cha
 ## ▶️ How to Run
 
 1. Install Python (if not installed)
-2. Install pygame:.
+2. Run this game using Python:
+
+pip install pygame
+python ultimate_car_racing_game.py
+3. Install pygame:.
 
 ---
 
